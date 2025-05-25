@@ -1,4 +1,4 @@
-# DES Cipher Python Implementation
+# DES CLI
 
 This project is a simple implementation of the DES (Data Encryption Standard) symmetric cipher in Python.
 
